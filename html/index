@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head> 
+  <meta charest="utf-8">
+  <meta name="viewport" content="width=evice-width, initial-scale=1.0">
+  <link type="text/css" rel="stylesheet" href="style.css">
+  </head>
+  <body>
+  <p>回答欄</p>
+  <textarea name="text></textarea>
+  <button type="submit">送信</button>  
